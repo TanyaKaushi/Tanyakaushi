@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TanyaKaushi&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 <br>
 <h3><img src="https://user-images.githubusercontent.com/68680779/148364086-0189eb64-d168-46cc-a195-72dca2dd2490.png" width="35"> Software Engineering Undergraduate at SLIIT  
-  <img src="https://user-images.githubusercontent.com/68680779/148371222-62f86101-54ad-4f6a-8501-7394eae34b70.png" width="35"></h3>
+</h3>
 <h3>Full Stack Developer 
   <img src="https://user-images.githubusercontent.com/68680779/148377200-06a37784-9efc-4dbe-9e12-a1527279edd6.png" width="35"></h3>
   <br>
