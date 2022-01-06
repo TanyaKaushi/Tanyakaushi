@@ -12,6 +12,7 @@
 <h3>Full Stack Developer 
   <img src="https://user-images.githubusercontent.com/68680779/148377200-06a37784-9efc-4dbe-9e12-a1527279edd6.png" width="35"></h3>
   <br>
+
   <br>
 <h3 align="left">Connect with me:</h3
 
@@ -24,11 +25,21 @@
 
 <br>
 <br>
-
-<div align="center"> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyakaushi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="tanyakaushi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanyaKaushi&show_icons=true&theme=dracula" alt="tanyakaushi" /></p>
-<div>
+<p align="center">
+  <a href="https://github.com/kulanaavinash/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulanaavinash&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/kulanaavinash/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=kulanaavinash&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
+    />
+  </a>
+</p>
 <br>
 <br>
 
