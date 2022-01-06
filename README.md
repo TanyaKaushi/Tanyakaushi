@@ -26,17 +26,17 @@
 <br>
 <br>
 <p align="center">
-  <a href="https://github.com/kulanaavinash/github-readme-stats">
+  <a href="https://github.com/TanyaKaushi/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulanaavinash&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaKaushi&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=dracula"
     />
   </a>
-  <a href="https://github.com/kulanaavinash/github-readme-stats">
+  <a href="https://github.com/TanyaKaushi/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=kulanaavinash&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=TanyaKaushi&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=dracula"
     />
   </a>
 </p>
