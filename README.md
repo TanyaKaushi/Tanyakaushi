@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaKaushi&show_icons=true&theme=radical)
 
 ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaKaushi&show_icons=true)
 
