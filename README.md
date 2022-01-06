@@ -29,6 +29,7 @@
   <a href="https://github.com/TanyaKaushi/github-readme-stats">
     <img
       align="center"
+          height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaKaushi&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=dracula"
     />
   </a>
