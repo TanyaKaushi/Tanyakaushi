@@ -2,6 +2,8 @@
 
 ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaKaushi&show_icons=true&theme=radical)
 
+![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaKaushi&show_icons=true)
+
 <!--
 **TanyaKaushi/Tanyakaushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
