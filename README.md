@@ -6,14 +6,12 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/68680779/148360131-0873cdd9-b9e6-4856-96e4-fd6f0f5516ff.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TanyaKaushi&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-<br>
+
 <h3><img src="https://user-images.githubusercontent.com/68680779/148364086-0189eb64-d168-46cc-a195-72dca2dd2490.png" width="35"> Software Engineering Undergraduate at SLIIT  
 </h3>
 <h3>Full Stack Developer 
   <img src="https://user-images.githubusercontent.com/68680779/148377200-06a37784-9efc-4dbe-9e12-a1527279edd6.png" width="35"></h3>
-  <br>
-
-  <br>
+ <br>
 <h3 align="left">Connect with me:</h3
 
 <p align="left">
